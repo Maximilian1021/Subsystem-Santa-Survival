@@ -1,0 +1,7 @@
+name: SantaSubSystem
+version: ${project.version}
+main: me.maximilian1021.main.Main
+api-version: 1.16
+authors: [ Maximilian1021 ]
+description: AntiBuild Permission
+website: max1021.de
