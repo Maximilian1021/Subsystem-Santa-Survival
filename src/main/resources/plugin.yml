@@ -1,7 +1,7 @@
-name: SantaSubSystem
+name: SubsystemBauwelt
 version: ${project.version}
 main: me.maximilian1021.main.Main
 api-version: 1.16
 authors: [ Maximilian1021 ]
-description: AntiBuild Permission
+description: Regelt Funktionen auf dem Bauwelt Server
 website: max1021.de
