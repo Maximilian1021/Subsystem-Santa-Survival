@@ -21,7 +21,9 @@ public class TabListener implements Listener {
             p.setPlayerListName("§6Spieler §8| §b" + p.getName());
         } else if (p.hasPermission("tab.team")) {
             p.setPlayerListName("§aTeam §8| §b" + p.getName());
-        }
+        } else if (p.hasPermission("tab.staff")) {
+            p.setPlayerListName("§cStaff §8| §b");
 
+        }
     }
 }
